@@ -1,2 +1,5 @@
-# TPR
-Three-dimensional Place and Route for FPGAs. This is a complete placement and routing tool for 3D FPGA architectures. The placer is partitioning based while the router is the 3D adaptation of the VPR 2D router.
+cristinel.ababei@marquette.edu
+
+Please find the complete source code of this project here:
+
+http://vlsicad.eecs.umich.edu/BK/Slots/slots/FPGALayout.html 
